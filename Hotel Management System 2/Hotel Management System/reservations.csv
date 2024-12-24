@@ -1,0 +1,16 @@
+reservation_id,guest_name,contact,room_number,room_type,reserved_date,day,is_check-in,order_amount
+241222215840,Client,200000002,S101,SingleRoom,20250102,5,Checked-out,750.0
+241222220002,Client,200000002,S101,SingleRoom,20250102,5,Checked-out,750.0
+241222222608,Anna,123456799,L555,LuxuryRoom,20250103,10,Checked-out,5000.0
+241222224005,test,223,Un-Arrange,LuxuryRoom,20241223,6,un-check-in,3000.0
+241222235645,hello,123,D201,DoubleRoom,20250607,1,Checked-out,250.0
+241223111803,Bye,123456,Un-Arrange,LuxuryRoom,20251023,3,un-check-in,1500.0
+241223115947,Jack,100000001,L333,LuxuryRoom,20250103,2,Checked-in,1000.0
+241223105947,Jack,100000001,L444,LuxuryRoom,20250103,2,Checked-in,1000.0
+241223163121,Ryan,445,Un-Arrange,LuxuryRoom,20250105,2,un-check-in,1000.0
+241223174254,Running,111111111,Un-Arrange,LuxuryRoom,20250201,1,un-check-in,500.0
+241223174404,running2,123333333,Un-Arrange,DoubleRoom,20250203,2,un-check-in,500.0
+241223214856,frank,13955555555,Un-Arrange,DoubleRoom,20241224,2,un-check-in,500.0
+241223215458,frank,13955555555,Un-Arrange,DoubleRoom,20241225,1,un-check-in,250.0
+241223223940,Running,111111111,Un-Arrange,LuxuryRoom,251331,1,un-check-in,500.0
+241224145741,saiodf,5465,Un-Arrange,LuxuryRoom,241226,1,un-check-in,500.0
